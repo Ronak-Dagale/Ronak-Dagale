@@ -70,7 +70,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak-Dagale&theme=react" alt="Streak Stats">
 <br>
 
-<br>
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronak-Dagale&theme=react-dark)
 
 </div> 
