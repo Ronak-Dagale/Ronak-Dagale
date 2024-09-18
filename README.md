@@ -70,11 +70,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak-Dagale&theme=react" alt="Streak Stats">
 <br>
 
- # <a href="https://visitcount.itsvg.in">
-   # <img src="https://visitcount.itsvg.in/api?id=Ronak-Dagale&label=Profile%20Views&pretty=false" alt="Profile Views">
-# </a>
-
-<br
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronak-Dagale&theme=react-dark)
 
