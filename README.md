@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Ronak+Dagale;Nice+to+meet+you!">
 </p>
-<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<p align="center">
+  <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
 <h3 align="center">A passionate developer from India</h3>
 
 - 📫 How to reach me **ronaksdagale16@gmail.com**
