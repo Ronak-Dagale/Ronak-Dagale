@@ -68,9 +68,14 @@
 <a align="center" href="https://github.com/Ronak-Dagale"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-Dagale&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"></a>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronak-Dagale&theme=react" alt="Streak Stats">
-<br>
+
+<br><br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronak-Dagale&theme=react-dark)
+
+<br>
+
+<img src="https://images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="200px">
 
 </div> 
 <br>
