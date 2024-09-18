@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Ronak+Dagale;Nice+to+meet+you!">
 </p>
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h3 align="center">A passionate developer from India</h3>
 
@@ -12,7 +13,9 @@
 <a href="https://instagram.com/ronak_dagale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronak_dagale" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+
+# Languages and Tools
 
 <table align="center">
 <tr>
@@ -56,8 +59,6 @@
 <td><a href="https://github.com/Ronak-Dagale"><img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow,postman" /></a></td>
 </tr>
 </table>
-
-<div align="center">
 
 # My Coding Activity
 
